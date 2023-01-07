@@ -8,7 +8,7 @@ function Header() {
           <span role="img" aria-label="tap emoji">
             💎
           </span>
-          
+          Lcoin
         </h1>
       </div>
     </header>
